@@ -1,5 +1,5 @@
 {
-  "name": "tech_stack",
+  "name": "manager",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,10 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "firebase": "^6.2.4",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.59.10",
+    "react-native-router-flux": "^4.0.6",
     "react-redux": "^7.1.0",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
