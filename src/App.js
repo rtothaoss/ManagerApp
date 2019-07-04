@@ -18,14 +18,13 @@ class App extends Component {
             authDomain: "manager-4c952.firebaseapp.com",
             databaseURL: "https://manager-4c952.firebaseio.com",
             projectId: "manager-4c952",
-            storageBucket: "",
+            storageBucket: "manager-4c952.appspot.com",
             messagingSenderId: "597809571272",
             appId: "1:597809571272:web:3418ff410f38b57b"
-        };
-
-        firebase.initializeApp(firebaseConfig);
+          };
+          
+          firebase.initializeApp(firebaseConfig);
     }
-
 
     render() {
 
