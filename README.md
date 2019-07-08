@@ -14,7 +14,7 @@ Clone the project then be sure to install the package dependencies.
 
 This app also uses expo. Be sure to check it out [here](https://expo.io/tools#client) 
 
-`` ` npm install expo-cli --global ` ``
+``  npm install expo-cli --global  ``
 
 #### Usage
 
