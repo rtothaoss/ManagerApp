@@ -12,7 +12,7 @@ This app allows a manager to login and schedule his employees for work. The mana
 #### Clone Repository
 Paste this line of code into your terminal
 
-`` `git clone git@github.com:rtothaoss/ManagerApp.git ` ``
+`` git clone git@github.com:rtothaoss/ManagerApp.git ``
 
 #### Install Dependencies 
 Install all the necessary packages for the app to run correctly.
@@ -27,7 +27,7 @@ This app also uses expo. Be sure to check it out [here](https://expo.io/tools#cl
 
 Start up the app by using
 
-``` npm start ```
+`` npm start ``
 
 ### Technologies Used:
 
